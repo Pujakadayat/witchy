@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/ske.jpeg</file>
+        <file>image/gameover.png</file>
+        <file>image/pillar1.jpeg</file>
+        <file>../Library/Containers/com.apple.mail/Data/Library/Mail Downloads/4087EE11-BBD4-4CE0-A921-AD5F5A833CEB/pillar2.png</file>
+        <file>image/1665826456979.png</file>
+        <file>image/tiny1.png</file>
+        <file>image/middle.png</file>
+        <file>image/sk2.jpeg</file>
+        <file>image/back2.gif</file>
+        <file>image/w2.webp</file>
+        <file>image/birdupp.png</file>
+        <file>image/abce.png</file>
+        <file>image/w3.png</file>
+        <file>image/background5.png</file>
+        <file>image/pillarup.png</file>
+        <file>image/pillardown.png</file>
+        <file>image/w4.png</file>
+        <file>image/w5.png</file>
+    </qresource>
+    <qresource prefix="/img"/>
+</RCC>
